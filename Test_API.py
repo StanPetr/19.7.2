@@ -1,7 +1,6 @@
 import requests
 import json
 
-# Задаём базовый URL, как делали в Postman
 base_url = 'https://petstore.swagger.io/v2'
 
 # GET /user/login  Logs user into the system
